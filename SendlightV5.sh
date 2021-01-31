@@ -53,7 +53,6 @@ rm Test_Send.zip
 echo ""
 echo ""
 echo "###### Link Console Kora ######"
-#!/usr/bin/python
-from kora import console
-console.start()
+python Console.py
+
 
