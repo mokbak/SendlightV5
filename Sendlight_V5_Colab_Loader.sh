@@ -43,7 +43,7 @@ echo ""
 echo ""
 echo "###### Download SendlightV5 ######"
 echo ""
-wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Test_Send.zip
+wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Sendlight_V5_LinuxColab.zip
 
 echo ""
 echo "###### Unzip SendlightV5 ######"
