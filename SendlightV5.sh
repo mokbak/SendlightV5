@@ -46,8 +46,9 @@ unzip Test_Send.zip
 
 echo ""
 echo ""
-echo "###### Delete Install *.sh ######"
+echo "###### Delete Install *.sh *.zip ######"
 rm SendlightV5.sh
+rm Test_Send.zip
 
 echo ""
 echo ""
