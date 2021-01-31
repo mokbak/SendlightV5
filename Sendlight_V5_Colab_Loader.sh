@@ -5,8 +5,7 @@ echo "##################################"
 echo ""
 echo "Type SendLight v5 ZipPaswword, followed by [ENTER]:"
 read pswd
-ZipPaswword=$pswd
-echo are you sure the password is: $ZipPaswword
+echo are you sure the password is: $pswd
 echo ""
 echo ""
 echo "###### Check System ######"
