@@ -42,18 +42,21 @@ wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5
 
 echo ""
 echo "###### Unzip SendlightV5 ######"
-unzip Test_Send.zip
+read -p "Enter SendflightV5 ZipPassword"  ZipPassword
+echo "ZipPassword: $ZipPassword"
+unzip -P $ZipPassword Test_Send.zip
 
 echo ""
 echo ""
 echo "###### Delete Install *.sh *.zip ######"
-rm SendlightV5.sh
+rm Sendlight_V5_Colab_Loader.sh
 rm Test_Send.zip
 
 echo ""
 echo ""
-echo "###### Link Console Kora ######"
+echo "###### Click Link For Console ######"
 wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Console.py
 python Console.py
+
 
 
