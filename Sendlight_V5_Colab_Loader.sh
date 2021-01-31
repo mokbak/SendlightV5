@@ -37,18 +37,21 @@ pip install --upgrade kora
 echo ""
 echo ""
 echo "###### Download SendlightV5 ######"
-
+echo ""
 wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Test_Send.zip
 
 echo ""
 echo "###### Unzip SendlightV5 ######"
+echo ""
 wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Unzip_SendlightV5.sh
 chmod +x Unzip_SendlightV5.sh
+echo ""
 ./Unzip_SendlightV5.sh
 
 echo ""
 echo ""
 echo "###### Delete Install *.sh *.zip ######"
+echo ""
 rm Sendlight_V5_Colab_Loader.sh
 rm Unzip_SendlightV5.sh
 rm Test_Send.zip
