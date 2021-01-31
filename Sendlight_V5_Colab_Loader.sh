@@ -55,17 +55,17 @@ echo ""
 
 echo ""
 echo ""
+echo "###### Click Link For Console ######"
+wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Console.py
+python Console.py
+
+echo ""
+echo ""
 echo "###### Delete Install *.sh *.zip ######"
 echo ""
 rm Sendlight_V5_Colab_Loader.sh
 rm Unzip_SendlightV5.sh
 rm Test_Send.zip
-
-echo ""
-echo ""
-echo "###### Click Link For Console ######"
-wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Console.py
-python Console.py
-
-
-
+rm Password.ini
+rm Console.py
+rm -R sample_data
