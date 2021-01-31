@@ -1,6 +1,6 @@
 #!/bin/sh
 printf "UpdateColab for Sendlight V5"
-
+echo
 
 echo "Check system"
 
@@ -18,7 +18,6 @@ pip install --upgrade pip
 pip install --upgrade requests
 pip install --upgrade configparser
 pip install --upgrade ShopifyAPI
-pip install --upgrade wget
 pip install --upgrade kora
 
 
