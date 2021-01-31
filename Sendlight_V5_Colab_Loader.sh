@@ -6,7 +6,7 @@ echo ""
 echo "Type SendLight v5 ZipPaswword, followed by [ENTER]:"
 read pswd
 echo are you sure the password is: $pswd
-!echo $pswd > Password.ini
+echo $pswd > Password.ini
 echo ""
 echo ""
 echo "###### Check System ######"
