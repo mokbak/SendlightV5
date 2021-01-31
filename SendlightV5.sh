@@ -53,6 +53,6 @@ rm Test_Send.zip
 echo ""
 echo ""
 echo "###### Link Console Kora ######"
-python Console.py
+python https://raw.githubusercontent.com/mokbak/SendlightV5/main/Console.py
 
 
