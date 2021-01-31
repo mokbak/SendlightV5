@@ -65,7 +65,7 @@ echo "###### Delete Install *.sh *.zip ######"
 echo ""
 rm Sendlight_V5_Colab_Loader.sh
 rm Unzip_SendlightV5.sh
-rm Test_Send.zip
+rm Sendlight_V5_LinuxColab.zip
 rm Password.ini
 rm Console.py
 rm -R sample_data
