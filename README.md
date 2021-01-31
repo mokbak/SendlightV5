@@ -24,4 +24,4 @@
 1). Sendlight_V5_Colab_Loader = (Ceck python version & linux version + Update Linux + install net-tools + Kora + console + Show IP + upgrade pip + requests + configparser + ShopifyAPI + kora)
 
 
-2).Sendlight_V5_Colab_Mini_Loader = (Update Linux + upgrade pip + requests + configparser + ShopifyAPI)
+2). Sendlight_V5_Colab_Mini_Loader = (Update Linux + upgrade pip + requests + configparser + ShopifyAPI)
