@@ -1,7 +1,6 @@
 #!/bin/bash
-ZipPaswword=$pswd
-echo $ZipPaswword is your password.
+echo $pswd is your password.
 echo ""
-unzip -P $ZipPaswword Test_Send.zip
+unzip -P $pswd Test_Send.zip
 
 echo ""
