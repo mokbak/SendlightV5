@@ -3,9 +3,11 @@ echo "##################################"
 echo "###### Sendlight V5 (Colab) ######"
 echo "##################################"
 echo ""
+ZipPaswword=$pswd
 echo "Type SendLight v5 ZipPaswword, followed by [ENTER]:"
 read pswd
 echo are you sure the password is: $pswd
+ZipPaswword=$pswd
 echo ""
 echo ""
 echo "###### Check System ######"
