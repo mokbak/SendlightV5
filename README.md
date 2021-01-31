@@ -1,6 +1,6 @@
 # SendlightV5
 
 # Colab #
-! wget https://www.dropbox.com/s/raw/jwu62ycm18u5zi2/SendlightV5.sh &
+! wget https://raw.githubusercontent.com/mokbak/SendlightV5/main/SendlightV5.sh &
 ! chmod +x SendlightV5.sh
 ! ./SendlightV5.sh
