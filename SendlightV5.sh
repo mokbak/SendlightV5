@@ -52,9 +52,7 @@ rm SendlightV5.sh
 echo ""
 echo ""
 echo "###### Link Console Kora ######"
+#!/usr/bin/python
 from kora import console
 console.start()
 
-echo ""
-echo ""
-echo "###### fin ######"
