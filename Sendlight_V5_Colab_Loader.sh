@@ -42,14 +42,15 @@ wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5
 
 echo ""
 echo "###### Unzip SendlightV5 ######"
-read -p "Enter SendflightV5 ZipPassword"  ZipPassword
-echo "ZipPassword: $ZipPassword"
-unzip -P $ZipPassword Test_Send.zip
+wget --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Unzip_SendlightV5.sh
+chmod +x Unzip_SendlightV5.sh
+./Unzip_SendlightV5.sh
 
 echo ""
 echo ""
 echo "###### Delete Install *.sh *.zip ######"
 rm Sendlight_V5_Colab_Loader.sh
+rm Unzip_SendlightV5.sh
 rm Test_Send.zip
 
 echo ""
