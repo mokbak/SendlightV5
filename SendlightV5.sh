@@ -1,6 +1,6 @@
-#! /bin/bash
+#!/bin/bash
 
-wget https://raw.githubusercontent.com/mokbak/SendlightV5/main/Test_Send.zip &
+wget --user-agent=Mozilla/5.0 --save-cookies cookies.txt --no-check-certificate https://raw.githubusercontent.com/mokbak/SendlightV5/main/Test_Send.zip
 
 unzip Test_Send.zip
 
