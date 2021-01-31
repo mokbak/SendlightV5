@@ -1,7 +1,7 @@
 #!/bin/bash
-source <Password.ini>
-echo $pswd is your password.
+pswd1w="$(cat Password.ini)"
+echo $pswd1 is your password.
 echo ""
-unzip -P $pswd Test_Send.zip
+unzip -P $pswd1 Test_Send.zip
 
 echo ""
