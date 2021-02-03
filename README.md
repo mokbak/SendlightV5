@@ -6,14 +6,14 @@
 
 ! curl -O https://raw.githubusercontent.com/mokbak/SendlightV5/main/Sendlight_V5_Colab_Loader.sh
 
-! Bash Sendlight_V5_Colab_Loader.sh
+! bash Sendlight_V5_Colab_Loader.sh
 
 
 =========== Sendlight_V5_Colab_Mini_Loader==================================
 
 ! curl -O https://raw.githubusercontent.com/mokbak/SendlightV5/main/Sendlight_V5_Colab_Mini_Loader.sh
 
-! Bash Sendlight_V5_Colab_Mini_Loader.sh
+! bash Sendlight_V5_Colab_Mini_Loader.sh
 
 ===================================================================================
 
