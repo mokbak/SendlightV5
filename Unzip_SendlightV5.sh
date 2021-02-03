@@ -1,6 +1,6 @@
 #!/bin/bash
 echo $(cat Password.ini) is your password.
-echo ""
+echo
 unzip -P $(cat Password.ini) Sendlight_V5_LinuxColab.zip
 
-echo ""
+echo -e j "\n\n"
