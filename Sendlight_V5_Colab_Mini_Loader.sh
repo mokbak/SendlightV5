@@ -1,8 +1,8 @@
 #!/bin/bash
 echo -e "\n\n"
-echo "##################################"
+echo "#######################################"
 echo "###### Sendlight V5 (Colab) Mini ######"
-echo -e "##################################" "\n\n"
+echo -e "#######################################" "\n\n"
 
 
 echo "Type SendLight v5 ZipPaswword, followed by [ENTER]:"
