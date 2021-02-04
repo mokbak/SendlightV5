@@ -43,6 +43,7 @@ rm Unzip_SendlightV5.sh
 rm Sendlight_V5_LinuxColab.zip
 rm Password.ini
 rm -R sample_data
+echo Your public IP:
 wget -qO- icanhazip.com
 echo -e "\n"
 echo "################## END ##################"
