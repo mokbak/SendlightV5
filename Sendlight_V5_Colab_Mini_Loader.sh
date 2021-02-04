@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "\n\n\n\n"
+echo -e "\n\n"
 echo "##################################"
 echo "###### Sendlight V5 (Colab) Mini ######"
 echo -e "##################################" "\n\n"
