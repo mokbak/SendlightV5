@@ -34,9 +34,7 @@ echo -e "\n\n"
 echo -e "###### Unzip SendlightV5 ######" "\n"
 curl -O https://raw.githubusercontent.com/mokbak/SendlightV5/main/Unzip_SendlightV5.sh
 chmod +x Unzip_SendlightV5.sh
-echo;
 bash Unzip_SendlightV5.sh
-echo -e "\n\n"
 
 
 echo -e "###### Delete Install *.sh *.zip ######" "\n"
@@ -45,6 +43,6 @@ rm Unzip_SendlightV5.sh
 rm Sendlight_V5_LinuxColab.zip
 rm Password.ini
 rm -R sample_data
-!wget -qO- icanhazip.com
+wget -qO- icanhazip.com
 echo -e "\n"
 echo "################## END ##################"
