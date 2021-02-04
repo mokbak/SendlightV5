@@ -44,8 +44,8 @@ rm Sendlight_V5_LinuxColab.zip
 rm Password.ini
 rm -R sample_data
 echo -e "\n"
-echo -e "###### Get YOUR public IP ######" "\n"
-echo Your public IP:
+echo -e "###### Get Your Public IP ######" "\n"
+echo Your Public IP:
 wget -qO- icanhazip.com
 echo -e "\n"
 echo "################## END ##################"
