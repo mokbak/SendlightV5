@@ -2,6 +2,8 @@
 
 # Colab shopify FrontEnd/API #
 
+# Colab WiziShop API #
+
 =========== Sendlight_V5_Colab_Loader==================================
 
 ! curl -O https://raw.githubusercontent.com/mokbak/SendlightV5/main/Sendlight_V5_Colab_Loader.sh
